@@ -12,7 +12,6 @@ export class AppComponent {
     {name: 'Airpod', id: 1, rpice: 250 },
     {name: 'iPad', id: 2, rpice: 650 },
     {name: 'AirMax', id: 3, rpice: 450 }
-
   ]
 
   selectedItem: any;
